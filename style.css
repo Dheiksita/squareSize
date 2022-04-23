@@ -1,0 +1,25 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkslateblue;
+}
+.NOTE{
+    font-size: 18px;
+    color: tomato;
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}
+.copyRight_footer{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: darkviolet;
+    color: rgb(172, 255, 255);
+}
